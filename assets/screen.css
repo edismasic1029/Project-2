@@ -67,11 +67,16 @@ h2 {
   }
 
   nav {
+    background: black;
     text-align: center;
-    margin: auto;
-    background-color: beige;
-    color: black;
-    padding: 1em;
+    height: 35px;
+    padding-left: 18px;
+    border-radius: 15px;
+    display: block;
+  }
+  nav {
+    margin: 0 auto;
+    list-style: none
   }
 
 footer{
